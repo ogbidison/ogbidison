@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ogbidison
-- 👀 I’m interested in ... Data Science, Machine Learning, Java Script, AI, Deep Learning, Time Series
+- 👀 I’m interested in ... Data Science, Machine Learning, Java Script, AI, Deep Learning, Time Series, R
 - 🌱 I’m currently learning ... Data Science, Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
